@@ -46,9 +46,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
